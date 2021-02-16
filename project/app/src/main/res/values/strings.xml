@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">UBS</string>
+    <string name="prompt_username">username</string>
+    <string name="prompt_password">password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Sign Up</string>
+    <string name="action_reset_pwd"><u>Forget password?</u></string>
+
+    <string name="title_activity_navigation">UBS</string>
+    <string name="title_home">Home</string>
+    <string name="title_club">Club</string>
+    <string name="title_market">Market</string>
+    <string name="title_profile">Profile</string>
+
 </resources>
